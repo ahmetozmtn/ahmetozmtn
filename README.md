@@ -14,19 +14,7 @@
 
 ## My Skill Set
 
-<style>
-  .resim-container {
-    display: flex;
-    justify-content: center;
-    align-items: center; 
-  }
-
-  .resim-container a {
-    margin: 10px;
-  }
-</style>
-
-<div class="resim-container">
+<div>
   <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
