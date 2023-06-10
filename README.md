@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">I'm Ahmet, a part-time full-stack freelance developer 👨‍💻</div>
 
@@ -27,8 +26,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 </div>
-</td><td valign="top" width="100%">
-</td></tr></table>
 
 <br/>
 
