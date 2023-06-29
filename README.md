@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Ahmet, a part-time full-stack freelance developer 👨‍💻</div>
 
--   🔭 I’m currently working on [Github Flask](https://github.com/ahmetozmtn)
+-   🔭 I’m currently working on Python
 
 -   🌱 I’m currently learning Python, Flask. HTML, CSS
 
