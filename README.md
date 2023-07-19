@@ -2,17 +2,19 @@
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Ahmet, a part-time full-stack freelance developer 👨‍💻</div>
+ <h3 align="center">I'm Ahmet, freelance developer 👨‍💻</h3>
 
--   🔭 I’m currently working on Python
 
--   🌱 I’m currently learning Python, Flask. HTML, CSS
+ <h2 align="center">Contact</h2>      
 
--   ⚡ Fun fact: I use tabs over spaces
 
-<br/>
+<p align="center">
+    <a href="https://discord.com/users/554415480471945217"><img alt="Discord"  height="50" src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/c7/Discord_logo_new.svg/2560px-Discord_logo_new.svg.png"></img></a>
+<p align="center">
+</p>
 
-<h2 style="text-align: center;">My Skill</h2>
+
+<h2 align="center">My Skill</h2>
 
 
 <br/>
@@ -31,7 +33,7 @@
 
 <br/>
 
-## Github Stats
+<h2 align="center">Github Stats</h2>
 
 </br></p>
 
