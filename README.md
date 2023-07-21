@@ -10,7 +10,7 @@
 
 <div align="center">
     <a href="https://discord.com/users/554415480471945217" target="_blank"><img alt="Discord"  height="50" src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/c7/Discord_logo_new.svg/2560px-Discord_logo_new.svg.png"></img></a>
-    <a href="https://www.linkedin.com/in/ahmetozmtn" target="_blank"><img alt="Linkdin"  height="75" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"></img></a>
+    <a href="https://www.linkedin.com/in/ahmetozmtn" target="_blank"><img alt="Linkdin"  height="70" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"></img></a>
 </div>
 
 
