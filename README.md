@@ -8,10 +8,10 @@
  <h2 align="center">Contact</h2>      
 
 
-<p align="center">
+<div align="center">
     <a href="https://discord.com/users/554415480471945217"><img alt="Discord"  height="50" src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/c7/Discord_logo_new.svg/2560px-Discord_logo_new.svg.png"></img></a>
-<p align="center">
-</p>
+    <a href="www.linkedin.com/in/ahmetozmtn"><img alt="Linkdin"  height="75" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"></img></a>
+</div>
 
 
 <h2 align="center">My Skill</h2>
