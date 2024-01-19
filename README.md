@@ -54,9 +54,3 @@
 </div>
 
 ###
-
-<div align="right">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xaxr352ld7xbbrtl05umfjd1q&count=1?theme=dark&spin=false&scan=false&rainbow=false" alt="Widget with the current Spotify song"  />
-</div>
-
-###
