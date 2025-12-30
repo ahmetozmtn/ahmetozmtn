@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ahmet, freelance developer</h1>
+<h1 align="center">I'm Ahmet, backend developer</h1>
 
 ###
 
